@@ -1,0 +1,24 @@
+
+.container{
+margin-top: 10vh;
+    
+}
+
+h5{
+    padding:2% 15%;
+}
+.main-key-code{
+    margin:0px 3%;
+}
+#mainKeyCode
+{
+    font-size: 15vw;
+    font-family: 'Source Sans Pro', sans-serif;
+  
+
+    background: -webkit-linear-gradient(-135deg,rgb(0, 153, 255), rgb(255, 60, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+
+}
